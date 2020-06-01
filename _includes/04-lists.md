@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Favorite Things:
+- Food
+- Being with my baby
+- Working out
